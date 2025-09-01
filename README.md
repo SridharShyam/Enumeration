@@ -58,37 +58,37 @@ Open terminal and try execute some kali linux commands
 # Output 1:
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 
-<img width="1709" height="951" alt="image" src="https://github.com/user-attachments/assets/f07a3a32-7b99-43f9-80ba-1f3acc98dcc2" />
+<img width="1893" height="863" alt="image" src="https://github.com/user-attachments/assets/c1398736-073e-4402-aa6f-4e4dd8ec6782" />
 
 # Output 2:
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 
-<img width="1708" height="954" alt="image" src="https://github.com/user-attachments/assets/8fe6a9d0-5e16-4642-b081-d17fbd6ebd68" />
+<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/fb74405a-090b-44c1-b576-8df1db548324" />
 
 # Output 3:
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-<img width="1662" height="952" alt="image" src="https://github.com/user-attachments/assets/323169fa-aaf8-4dbe-b6f1-91973296a33e" />
+<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/8c10bada-05b9-492b-b4b9-a5bf53801330" />
 
 # Output 4:
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
-<img width="1709" height="951" alt="image" src="https://github.com/user-attachments/assets/208986f5-8996-4683-be5b-40df488ac5ce" />
+<img width="1897" height="857" alt="image" src="https://github.com/user-attachments/assets/5579c141-d907-4224-86dc-dc339e1cc0c6" />
 
 # Output 5:
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-<img width="1712" height="951" alt="image" src="https://github.com/user-attachments/assets/f896abd1-17e1-4afe-b5cc-937051a2e2ab" />
-
-# Output 5:
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
-
-<img width="1710" height="954" alt="image" src="https://github.com/user-attachments/assets/4936c055-393a-4e09-802a-7c9e71650caf" />
+<img width="1897" height="866" alt="image" src="https://github.com/user-attachments/assets/ac1452d7-d9fe-4243-a637-07912d4b36a3" />
 
 # Output 6:
+link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+
+<img width="1897" height="858" alt="image" src="https://github.com/user-attachments/assets/fb954c52-c55a-436e-891e-2ea78da021ef" />
+
+# Output 7:
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
-<img width="1720" height="949" alt="image" src="https://github.com/user-attachments/assets/7ff69836-3f96-4c79-b573-a6698386fee2" />
+<img width="1897" height="862" alt="image" src="https://github.com/user-attachments/assets/30dae807-74fe-4dd3-bda0-43d306daef99" />
 
 
 # DNS Enumeration
