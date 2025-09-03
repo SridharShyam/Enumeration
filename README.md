@@ -1,5 +1,6 @@
 # Explore Google hacking and enumeration 
-
+#### Name: SHYAM S
+#### Reg.No: 212223240156
 # AIM:
 
 To use Google for gathering information and perform enumeration of targets
@@ -119,8 +120,7 @@ cache: This operator allows you to view the cached version of a page. For exampl
 
 
 ## OUTPUT:
-
-<img width="942" height="489" alt="image" src="https://github.com/user-attachments/assets/dbf2b5c5-bf08-4a4e-8ef7-a020ca76bcd6" />
+<img width="676" height="520" alt="image" src="https://github.com/user-attachments/assets/0fea3e2a-bef2-4672-8ed8-e3df10092839" />
 
 
 ## Architecture Diagram 
@@ -161,9 +161,11 @@ dnsenum example.com
 ```
 
 ## Output:
-<img width="952" height="845" alt="image" src="https://github.com/user-attachments/assets/8b953d46-9213-477d-8e86-462e9336c6f3" />
+<img width="753" height="823" alt="image" src="https://github.com/user-attachments/assets/560b6340-360d-4329-9200-c6bef7cda0fc" />
 
-<img width="948" height="720" alt="image" src="https://github.com/user-attachments/assets/ed14b8d2-2b94-4880-afbe-2c2d62fdc97f" />
+<img width="867" height="827" alt="image" src="https://github.com/user-attachments/assets/7e72ae02-79c3-4570-a02c-ff2f637fdc4a" />
+
+<img width="817" height="827" alt="image" src="https://github.com/user-attachments/assets/8019e9ec-bf7f-4dd3-894e-f0f0e3fd773f" />
 
 
 
@@ -177,9 +179,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output:
- <img width="944" height="301" alt="image" src="https://github.com/user-attachments/assets/d2ff93f8-bf06-4080-8bfe-762f4a8a1c1b" />
-
-  
+<img width="782" height="321" alt="image" src="https://github.com/user-attachments/assets/905cbec3-cbbd-452f-9ecf-077f958de39f" />
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -192,7 +192,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-<img width="944" height="84" alt="image" src="https://github.com/user-attachments/assets/977d4801-578c-4785-bec7-3c405165cccf" />
+<img width="753" height="103" alt="image" src="https://github.com/user-attachments/assets/21e47ad5-b16b-40c7-8be4-64412102f750" />
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
